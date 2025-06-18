@@ -63,3 +63,61 @@ Embedding bit 0 of 'o' at (1,2,0) original=119 new=119
 Embedding bit 1 of 'o' at (1,2,1) original=106 new=107
 Embedding bit 0 of 'o' at (1,2,2) original=140 new=140
 Embedding bit 0 of 'o' at (1,3,0) original=122 new=122
+
+
+Reading bit 0 from (0,0,0)
+Reading bit 0 from (0,0,1)
+Reading bit 1 from (0,0,2)
+Reading bit 1 from (0,1,0)
+Reading bit 0 from (0,1,1)
+Reading bit 1 from (0,1,2)
+Reading bit 1 from (0,2,0)
+Reading bit 0 from (0,2,1)
+
+Decrypted byte: 35 XOR 107 -> 'H'
+
+Reading bit 0 from (0,2,2)
+Reading bit 1 from (0,3,0)
+Reading bit 1 from (0,3,1)
+Reading bit 0 from (0,3,2)
+Reading bit 1 from (0,4,0)
+Reading bit 0 from (0,4,1)
+Reading bit 0 from (0,4,2)
+Reading bit 1 from (0,5,0)
+
+Decrypted byte: 0 XOR 101 -> 'e'
+
+Reading bit 0 from (0,5,1)
+Reading bit 1 from (0,5,2)
+Reading bit 1 from (0,6,0)
+Reading bit 0 from (0,6,1)
+Reading bit 1 from (0,6,2)
+Reading bit 1 from (0,7,0)
+Reading bit 0 from (0,7,1)
+Reading bit 0 from (0,7,2)
+
+Decrypted byte: 13 XOR 121 -> 'l'
+
+Reading bit 1 from (0,8,0)
+Reading bit 0 from (0,8,1)
+Reading bit 0 from (0,8,2)
+Reading bit 1 from (0,9,0)
+Reading bit 0 from (0,9,1)
+Reading bit 1 from (0,9,2)
+Reading bit 0 from (1,0,0)
+Reading bit 0 from (1,0,1)
+
+Decrypted byte: 15 XOR 107 -> 'l'
+
+Reading bit 0 from (1,0,2)
+Reading bit 1 from (1,1,0)
+Reading bit 1 from (1,1,1)
+Reading bit 1 from (1,1,2)
+Reading bit 0 from (1,2,0)
+Reading bit 1 from (1,2,1)
+Reading bit 0 from (1,2,2)
+Reading bit 0 from (1,3,0)
+
+Decrypted byte: 10 XOR 101 -> 'o'
+
+Decrypted text: Hello
